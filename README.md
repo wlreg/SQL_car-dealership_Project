@@ -1,0 +1,1 @@
+#### I created an ERD of relationships among different tables you might see at a typical car dealership. After making the ERD I used PostgreSQL to manually create a relational database for the dealership. As well as creating a few functions to input some fields into each tables
